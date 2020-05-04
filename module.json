@@ -6,8 +6,8 @@
   "minimumCoreVersion": "0.4.7",
   "author": "Evan Clarke [errational#2007]",
   "url": "https://github.com/death-save/combat-utility-belt",
-  "manifest": "https://raw.githubusercontent.com/death-save/combat-utility-belt/beta/module.json",
-  "download": "https://github.com/death-save/combat-utility-belt/archive/beta.zip",
+  "manifest": "https://raw.githubusercontent.com/death-save/combat-utility-belt/master/module.json",
+  "download": "https://github.com/death-save/combat-utility-belt/archive/master.zip",
   "scripts": ["./combat-utility-belt.js", "./slick/slick.min.js"],
   "packs": [
     {
